@@ -20,6 +20,7 @@ public class Vectors {
         // remove the element from the vector
         vector.remove(0);
         System.out.println(vector);
+        
        }
     }
 }
